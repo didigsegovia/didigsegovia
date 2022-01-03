@@ -1,6 +1,6 @@
 ### Hello World! 👋
-My name is Diego and I am a computer engineer student, finishing my graduation at August 2022. I live in Brazil but my goal is to have no geographical boundaries and, as my mom always says, to be a world citizen!
-This is my GitHub Profile that I will do my best to keep up-to-date and make this the best place for you to check out my development as an engineer. 
+My name is Diego and I am a computer engineer student, finishing my graduation by August 2022. I currently live in Brazil but my goal is to have no geographical boundaries and, as my mom always says, to be a world citizen!
+This is my GitHub Profile that I will do my best to keep it up-to-date and make this the best place for you to check out my development as an engineer. 
 
 - 🔭 I’m currently working on buildind up my career as a Data Engineer getting certificates.
 - 🌱 I’m currently learning Microsoft Azure Cloud Computing.
